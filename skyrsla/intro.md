@@ -1,3 +1,15 @@
+Ég hef ákveðið að gera Robot sem lyftir sér upp með klónni sinni og snýr sér í hringi og lætur sig aftur niður.
+Fyrir þetta verkefni mun ég nota C++ til að kóða Bjarna (nafn róbots er Bjarni).
+
+
+
+
+
+
+
+
+
+
 ## Inngangur
 Hér skal gera lýsingu á verkefninu þ.e hvað,  hvernig og  hvaða forritunarmál, fyrir hverja og hvaða notagildi verkefnið hefur. 
 Minnst 500 orð. Notagildi skiptir miklumáli, reynið að sjá fyrir ykkur hverjir geti notað vélmennið ykkar og í hvaða tilgangi.  
