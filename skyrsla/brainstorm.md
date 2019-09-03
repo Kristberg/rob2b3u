@@ -7,4 +7,4 @@ Robot 6 - Robot sem hoppar eins og kengúró
 Robot 7 - Robot sem breytir um form eins og Transformers
 Robot 8 - Robot sem hefur samtal við fólk
 Robot 9 - Robot sem finnur næsta horn til að fara í
-Robot 10 - Robot sem hefur einn tilgang sem er að smyrja smjör
+Robot 10 - Robot sem hefur einn tilgang sem er að smyrja smjör á brauð
