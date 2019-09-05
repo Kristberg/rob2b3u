@@ -5,6 +5,23 @@ Fyrir þetta verkefni mun ég nota C++ til að kóða Bjarna (nafn róbots er Bj
 
 
 
+https://content.vexrobotics.com/docs/Speedbot-BI.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
