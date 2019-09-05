@@ -1,5 +1,5 @@
 - Robot 1 - Robot sem notar kló til að toga sig upp og snúa sér
-- Robot 2 - Robot sem kastar boltum með gormum
+- Robot 2 - Robot sem raðar boltum með kló og skynjurum
 - Robot 3 - Robot sem keyrir upp stiga sama hver stærð þeirra er
 - Robot 4 - Robot sem notar sensors
 - Robot 5 - Robot sem fylgir umferðareglum
