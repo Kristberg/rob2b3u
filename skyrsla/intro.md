@@ -1,4 +1,4 @@
-Ég hef ákveðið að gera Robot sem lyftir sér upp með klónni sinni og snýr sér í hringi og lætur sig aftur niður.
+Ég hef ákveðið að gera Robot sem notar skynjara til að finna ákveðinn bolta og fara með hann á ákveðinn stað
 Fyrir þetta verkefni mun ég nota C++ til að kóða Bjarna (nafn róbots er Bjarni).
 
 
