@@ -1,3 +1,5 @@
 05.09.2019
 Kristberg Rúnar Pálsson
 (05.09.2019) Byrjaði á að finna hugmynd um þann Robot sem ég mun vera að gera.
+(17.09.2019) Í dag byrjaði ég að byggja bílinn minn VEX Speedbot sem ég mun svo breyta og endurbæta.
+(24.09.2019) Í dag hélt ég áfram með að byggja bílinn.
