@@ -1,4 +1,4 @@
-Ég hef ákveðið að gera Robot sem notar skynjara til að finna ákveðinn bolta og fara með hann á ákveðinn stað
+Ég hef ákveðið að gera Robot sem notar skynjara til að keyra í ljósi, þegar það er myrkur fer hann ekki í gang, þegar hann klessir á vegg mun hann bakka smá og snúa sér 90° til hægri og fara áfram, ef hann klessir á vegg að aftan mun hann snúa sér 90° til vinstri.
 Fyrir þetta verkefni mun ég nota C++ til að kóða Bjarna (nafn róbots er Bjarni).
 
 
