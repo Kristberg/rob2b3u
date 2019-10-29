@@ -1,4 +1,4 @@
-05.09.2019  (allar þær dagsetningar sem vantar eru þeir tímar sem ég komst ekki í)
+Byrjun áfanga  (allar þær dagsetningar sem vantar eru þeir tímar sem ég komst ekki í)
 Kristberg Rúnar Pálsson
 (05.09.2019) Byrjaði á að finna hugmynd um þann Robot sem ég mun vera að gera.
 (17.09.2019) Í dag byrjaði ég að setja saman bílinn minn sem byggist á VEX Speedbot sem ég mun svo breyta og endurbæta.
@@ -8,3 +8,4 @@ Kristberg Rúnar Pálsson
 (03.10.2019) Í dag kom ég seint vegna funds, fann málma til að tengja bumper sensor og byrjaði á að setja hann á.
 (08.10.2019) Í dag var ég 
 (15.10.2019) Í dag kláraði ég að setja upp fyrir sensors.
+(29.19.2019) Í dag fann ég út að VEX 5 Robot Brain'ið sem ég var með var gallaður og þar af leiðandi gat ég ekki unnið í honum.
